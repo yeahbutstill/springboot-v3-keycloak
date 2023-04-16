@@ -2,6 +2,11 @@
 
 Demo project for integrating Keycloak with Spring Boot 3
 
+### Run Keycloak With Docker Image
+```shell
+docker run -p 8080:8080 -e KEYCLOAK_ADMIN=admin -e KEYCLOAK_ADMIN_PASSWORD=admin quay.io/keycloak/keycloak:21.0.2 start-dev
+```
+
 ### Endpoints
 Anonymous:
 ```

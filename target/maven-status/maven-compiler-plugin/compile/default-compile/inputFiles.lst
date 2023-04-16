@@ -1,0 +1,5 @@
+/home/yeahbutstill/IdeaProjects/spring-boot-keycloak/src/main/java/com/yeahbutstill/springbootkeycloak/security/WebSecurityConfig.java
+/home/yeahbutstill/IdeaProjects/spring-boot-keycloak/src/main/java/com/yeahbutstill/springbootkeycloak/controller/TestController.java
+/home/yeahbutstill/IdeaProjects/spring-boot-keycloak/src/main/java/com/yeahbutstill/springbootkeycloak/security/JwtAuthConverter.java
+/home/yeahbutstill/IdeaProjects/spring-boot-keycloak/src/main/java/com/yeahbutstill/springbootkeycloak/SpringBootKeycloakApplication.java
+/home/yeahbutstill/IdeaProjects/spring-boot-keycloak/src/main/java/com/yeahbutstill/springbootkeycloak/security/JwtAuthConverterProperties.java

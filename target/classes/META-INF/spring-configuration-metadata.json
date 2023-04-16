@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "jwt.auth.converter",
+      "type": "com.yeahbutstill.springbootkeycloak.security.JwtAuthConverterProperties",
+      "sourceType": "com.yeahbutstill.springbootkeycloak.security.JwtAuthConverterProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "jwt.auth.converter.principal-attribute",
+      "type": "java.lang.String",
+      "sourceType": "com.yeahbutstill.springbootkeycloak.security.JwtAuthConverterProperties"
+    },
+    {
+      "name": "jwt.auth.converter.resource-id",
+      "type": "java.lang.String",
+      "sourceType": "com.yeahbutstill.springbootkeycloak.security.JwtAuthConverterProperties"
+    }
+  ],
+  "hints": []
+}
